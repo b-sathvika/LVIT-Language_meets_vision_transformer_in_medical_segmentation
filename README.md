@@ -194,15 +194,10 @@ This project uses several datasets:
 | DTC | 76.07 | 66.04 |
 | MC-Net | 76.93 | 67.02 |
 | **LViT-T (1/4)** | **80.95** | **71.31** |
----
-
 ## 🎥 Project Demo Video
 
-[![Watch the video](https://img.youtube.com/vi/HSmIKhB_u-U/0.jpg)](https://youtu.be/HSmIKhB_u-U)
+Watch the demo: https://youtu.be/HSmIKhB_u-U
 
-*Click the image above to watch our project demo on YouTube*
-
----
 
 
 ***
