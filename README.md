@@ -198,7 +198,7 @@ This project uses several datasets:
 
 Watch the demo: https://youtu.be/HSmIKhB_u-U
 ### 🎥 Project Presentation
-[Click here to view the PowerPoint Presentation](https://docs.google.com/presentation/d/1vZzZQUREojMJa_VaVtgJ72cM2xhb0Rgy/edit?usp=drivesdk&ouid=113326186047383276892&rtpof=true&sd=true)
+Click here to view the PowerPoint Presentation:https://docs.google.com/presentation/d/1vZzZQUREojMJa_VaVtgJ72cM2xhb0Rgy/edit?usp=drivesdk&ouid=113326186047383276892&rtpof=true&sd=true
 
 
 
